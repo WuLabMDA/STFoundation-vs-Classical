@@ -11,7 +11,7 @@ For questions, feature requests, or bug reports, please open a new issue in this
 ### Contributions
 We welcome contributions, suggestions, and constructive feedback from the community.
 
-### Model Configuration and Fairness
+### Model Configuration
 All foundation models in this comparative analysis are run using the default parameter settings recommended by the original authors, as specified in their official tutorials or documentation.
 No task-specific hyperparameter tuning is performed unless explicitly stated. This design choice ensures a fair and reproducible comparison across models.
 
