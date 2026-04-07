@@ -15,6 +15,9 @@ We welcome contributions, suggestions, and constructive feedback from the commun
 All foundation models in this comparative analysis are run using the default parameter settings recommended by the original authors, as specified in their official tutorials or documentation.
 No task-specific hyperparameter tuning is performed unless explicitly stated. This design choice ensures a fair and reproducible comparison across models.
 
+### Test Data
+A test dataset to facilitate reproducibility of the methods is available [Here](https://drive.google.com/drive/folders/1l2mJaP9rcRctlghwTfPN_970a6ZT-dcV?usp=drive_link)
+
 ### Citation
 If you use this repository or find it helpful, please cite the corresponding manuscript:
 
